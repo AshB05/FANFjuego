@@ -1,0 +1,5883 @@
+fileFormatVersion: 2
+guid: 23025e42f22e949459e4dc112857e074
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 294095190282128365
+    second: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+      Minigame - Background Elements_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debcae27406d41400800000000000000
+      internalID: 294095190282128365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7f7fbb8eb0d874ca0c9a7069f12240
+      internalID: 1762815725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953017bd218ae6a43be00d95959331f4
+      internalID: 1842375265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b40b9cb3bbde841bdae74e3b2d01a5
+      internalID: -1783385254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c086c4f818b4e4893f7c53da73a3a9
+      internalID: -1326648153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e1958e75948ef45ae1def9d4970c29
+      internalID: -481886319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a103ee39769ba743a827684452c7727
+      internalID: 1948481675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0825249d7fdb2488787f41b93788ff
+      internalID: 36548108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6a4cf1fcc3fee42a045f55be05b7a1
+      internalID: 29755757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1bb4820e6dbbe4d9be62c9d0fd7a36
+      internalID: 1876457518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41283b4f330359543861351df2000e0d
+      internalID: 521429511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffd2d690b2a0dd48a5cbdeaa675905a
+      internalID: 2063639401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd1bd5991498694bbf918814a5e85e3
+      internalID: -1784663765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac19524d571934c4c8e053031dbbaddd
+      internalID: -1990106806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e173ec776fad504e97aa0f33d4f456a
+      internalID: 1929968703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 898
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7926814109afb1444b3adcff29341e7b
+      internalID: 1828514781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e087fa898b7b194f8444ac93eee91b3
+      internalID: -1012173636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc7b903e9fb2e41be40858b3c23b3f
+      internalID: 309212497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b91dd4a7e6a2894d8c835b3291a45db
+      internalID: 365261753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aa0051b8d974544a8a508892da9c4f
+      internalID: -468735146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51077c98e4f1c34aa834aceb900ab3f
+      internalID: -1034599882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7d7b4c609251b4d8b51db3afd898f3
+      internalID: -91992557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade28cd1581c3bb4bb9f3a9b0729066f
+      internalID: 1323499296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd099a607d63fe4478c4e741401ab8bf
+      internalID: 17509468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26768ba05687f8c4ea863cceab38526a
+      internalID: 457280803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc341fb6a3aee3c4bb0c49fdcc042b12
+      internalID: 1367618574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e51147919b2df84fb44baf0b6e16141
+      internalID: -923752046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96610be633b2ce747b91c3464e93a57c
+      internalID: -1224322783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179b84ef9ecad9e42ac7c78b7e01a440
+      internalID: -1402512695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024cd08438ab04645b956b4425ddc56f
+      internalID: 961878552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af02627f0a0817b4aae211b25f11420f
+      internalID: 655470261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304867947cb616e479766dc3edfc3845
+      internalID: 1168685909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f5c3c90a743eb4ea1348b87c4fe13d
+      internalID: 1164318373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d885168cad353f246b2083bc2ee4edb5
+      internalID: -431965425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5284a52060f535d4a80d0c46b5a9cdc1
+      internalID: 1813563046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d01c01be6ac2542ab395d12fac2147
+      internalID: 1922712229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fce72bb86cd5f4f80677191f33cd9f
+      internalID: -1265193508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96032ee71ec9b6747ad8b4143b709999
+      internalID: -5303276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c057e3700e6922b40948696bc2027148
+      internalID: 1942783488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf10f6351322de478e9a35983edffac
+      internalID: -1649861310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f634d1f1f99f33f45bb54220feb47278
+      internalID: -1428105846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7209883e575b971449e2c9ec63f5925e
+      internalID: 39135116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9278dbca80d23974c9feccb5540dd730
+      internalID: 1389744228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e808613d442c3a24bba7379cc5371557
+      internalID: -1019447199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc1d44beec6e9d47b34ab2ea7bb964d
+      internalID: -124746601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95927a08d6b230479424d80f3118ccb
+      internalID: 839812451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e3135db9ffe5d48acac0f02a10ab92
+      internalID: -1200396521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 770
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626f33d2897f91949be6129440f2f364
+      internalID: 74937887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b257d6411b84a84fa29a36731c152b8
+      internalID: -1273648823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeeab38b789cc749800ee101d3887e8
+      internalID: 1077724929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5098325b963f50845a4a462de2686dc8
+      internalID: -179352857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4b24a4f580ce142a0a4aebe8042c84
+      internalID: -1747774981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b485ff14071cd064589132e815c9f029
+      internalID: -1652164881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765789c8fa349d94883e074581386130
+      internalID: 2009368836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddb132940cfa9c4bb683c2dd7a95f36
+      internalID: 1344468803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008f81111772a6a4ea2639c081aa4e27
+      internalID: 40946159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6c8ed2a3e7fde41bf7c2ce30a87dcf
+      internalID: -1757665004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983f7bb34e7df4a42bf1de23a5031312
+      internalID: 920253305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2132cb8e615aeee43ba4c1dd3b3f1dc6
+      internalID: -2031271872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a164125ac9261741a33aa69c99b8518
+      internalID: 1300805539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712abe39417e35b42af7a9d39a997c9b
+      internalID: 1546356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe04690bb65971b439b994ebc1ce031e
+      internalID: -1800556573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020af56c405bf04459a8c6502a9185bc
+      internalID: -759137553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59a54f26192b364f8786c791c35a71b
+      internalID: 200396787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32062a1306003f419e328f12702745a
+      internalID: 1604408130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f597a8ab91588cb4cb3db24a4520620a
+      internalID: -338216654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e8f8b750ab95458eca3addffe6470
+      internalID: -1690305212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc134a20501919a4aaf10dd904c9ecc5
+      internalID: -1690786781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df68b00071b14847bb5a88b049aedc2
+      internalID: -66469112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc51308b58c14242abbf974568f2f51
+      internalID: -345476971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ff4c195561274429131cecb4c3af5b
+      internalID: -1339498898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c4573ec7fc18468fa3fa2c335b15b
+      internalID: 1384796346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb29e7e2f145a643bff22a281932da0
+      internalID: 1531712263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206b6668213204247aac676534f47b92
+      internalID: 260887104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f502fd256276134f956115dd1b84918
+      internalID: -1265411593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb16f629086d702439b5819252f350df
+      internalID: -1676185403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32670b47c79fd2479e876f65c45554b
+      internalID: -1632658600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6d6595ce8b96946a91e6cd50490131
+      internalID: -380107293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e97ac583d264154887d88230cda7616
+      internalID: -1082223267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aae1557715b57428adf8f6844f6d2c
+      internalID: -489573726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6b464d6b041074ea793a0a2a2794d6
+      internalID: -1045442448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc14412ae30cd1488d46fb9740deccc
+      internalID: -915684129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf3603bd9ef3134fbbb5eabad78b176
+      internalID: 1226295037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea35e8c3af899645a2a0a0a3fe2184a
+      internalID: 1671278897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da492c908212b3e44a27b63cfb79f32a
+      internalID: 130233098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd7c80cf3ed1e2438bf15ca327b2985
+      internalID: -1938398934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d02fc992adddd4fb1824f3392d53d5
+      internalID: -10849530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73417a0d998a78348a6d72fd08d0e5ab
+      internalID: -672281958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3fbb70c6fc684c836d045bae074c0
+      internalID: 693940270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1ba530600c3bf4ebc698f51d6426d6
+      internalID: 204978460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dc573d602048f4e8ed7905174c66b3
+      internalID: 986519268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ef349972e885f4d8a9c54b70e970db
+      internalID: -1010714847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7752aa75598010b459c7c9364da8fed6
+      internalID: -1712479581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c2408d4e36c1a46ac5aac7e1f418d6
+      internalID: -1556690489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8244f3e2a89684e9db04a91c3393b6
+      internalID: -490209342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 578
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa8bf65d314f574e9276e369ca072ef
+      internalID: 1838202942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4823d7876b17cbb44b02e3c2f43b1676
+      internalID: -1978507111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed577321305be4c8bc246cb8f1f7b2
+      internalID: -1962187873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc14c717b9250f646b5d31f4b2f8590c
+      internalID: 1462539879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aec72344947665489b569cd14981346
+      internalID: -233123678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f44ed92a3c8d4d41b70a08e2280579c
+      internalID: 784087715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2d943dc064d574cb4781d2e9701fa4
+      internalID: 678827626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5509cc420059b43b1d97fa31555998
+      internalID: -2432415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143023962de5a1e4a9deb39f8b1d5ba4
+      internalID: -1410268723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a3e46070a4bf149a4743ae81218238
+      internalID: -555149715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b25c918dd17a4aa2f223bfd56f002
+      internalID: 250209867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ee449bb40a20d458cf833cb22679b0
+      internalID: 876163114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf54563f59155e4db4abc3968be5aed
+      internalID: -142080850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b474c409f3caa144b39ce4afd1480ac
+      internalID: -80533734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123f1835066ed654baedc8a96ac328c8
+      internalID: -299349636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a15255d7f5bcd544b0e217c2be73203
+      internalID: 275446881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_111
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 514
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af63187579109184a8921ac061222ae3
+      internalID: 721837689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63364633751451e45a63d51596b9e475
+      internalID: 1220657497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85341083cc77da64ca79b72110a16f5a
+      internalID: -58273559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fb55517e586474fbf6128d36a5c800
+      internalID: 800659162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962b1690b061c0648b40d3c323e7c58e
+      internalID: 1159168468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab4297d21b5a0d4fb8be3f9198dc6e7
+      internalID: -919140448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39606d13f30f3114081ed8a376abd83c
+      internalID: -238336785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba43bb8fd54a5842ba3ef5ecbea3c24
+      internalID: 813805699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f645541d1bf7424788c9d0379511fc7
+      internalID: 596582610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285c8f8587ea92b4bb9aea37fc9b912d
+      internalID: -1087310974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3865102370e93f488bbaee920058434
+      internalID: 956724291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e983cf672b95cf40b1dad2e140154c8
+      internalID: 1202697408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff60672f8b07f84cb383be1b0b7f7a4
+      internalID: -1677700960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7172a27f68b4444298b0cec84a0252b
+      internalID: -1874472716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0828d844b0a82d04b90ad589248076a7
+      internalID: -1556026298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef34cfc437986a4c902e454e558b787
+      internalID: 927056250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3df5f8c866d42240b8e86578e50a578
+      internalID: 1144886209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6110802bde1045146a7d37322b3b4a29
+      internalID: -1154988145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d944d5896533eb246aecde017e763d99
+      internalID: -2049465626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a280b7cb6ca44448fceef82cd00b99
+      internalID: 1294589877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506d1bbc150bb57428176f1bf3c657e1
+      internalID: -1583284587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8fd596d78298c4b9795499b3bce78e
+      internalID: 1387057616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183773b7a401aca4bbac860732cf039a
+      internalID: -590984445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16d7c9339643dc4eba0904fbc6654af
+      internalID: 1191916007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ee00e547d34a3448737101ed775f89
+      internalID: 922269383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f897b3c139ac54bb0780a1c8192180
+      internalID: 1894010178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_137
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c926766eccbc23848a81487e33d06439
+      internalID: 1137691739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_138
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bb7415f550c2d49bc398c34c4b183e
+      internalID: -21155466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_139
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a461772193a6247b852d7565cbdb70
+      internalID: 2001240145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_140
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fce1cc187e09247b40b2d84b9ee016
+      internalID: 1362016618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_141
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aac16c470919740a25d3bb875bcdd5
+      internalID: -178843997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_142
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b9f62a3bd0a5146af79f3018aa2591
+      internalID: -452578898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_143
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2799053b9a211be41b7827980e54303f
+      internalID: 1559383902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e4c82aa4120814eb0d4da0d58ef9c8
+      internalID: -1018758106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab934ec31405f488abf299a4c8da62
+      internalID: 236292943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa99eb1968492248b050f69b8c87ac1
+      internalID: 2112756635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fe8de750b32424d8c613fb3941317f
+      internalID: -1416745791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5d65f7a44d12a4b9fb6b3f5d6d4bae
+      internalID: 361533127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8efd4c3509ed4eacb8d250339144a
+      internalID: 1472962609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea143d783c7ee9418f0720377048e63
+      internalID: -1295990297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1368f6add21ae541aab0447a7673115
+      internalID: -1197929205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5723e9291af9ee949b6196d164e5a855
+      internalID: -398164525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1887be450f9e6664884da6da07d4a2d7
+      internalID: -189459347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3392faf6833294588cb702ad1357d0
+      internalID: -1189391746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f1c178061cb6b439ad58a10c131564
+      internalID: -116843764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde7603a948a3c74fa680b799b4f3958
+      internalID: -929028054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3364f7a3fa68084e9515758895127e0
+      internalID: -1675741730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8755948766ba7954f9184df76a4032a0
+      internalID: -1238828925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_159
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f01543688d9fcf47b4d83743ee9fac7
+      internalID: 1714351680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f8ca7352154a94190e9d01c8e70ea0
+      internalID: -12476610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa020a72be3a6cc49a4e95148fcc6e45
+      internalID: -1736805868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eeee74b5bfde2409695474dc55f52c
+      internalID: 317931438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1670173f9fe9bb47813492e3ff55014
+      internalID: -275310365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9001fd53371f354a80c05bcb7c03087
+      internalID: 1095056133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d851dcd1971685e45b91ba327a9606ef
+      internalID: 1129552838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb2aadf8fcddf44a9e54ce0c9624b4
+      internalID: 756160568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42a7dd57813ecf41964695428ea62fb
+      internalID: 178029492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cffb1e7de3b1ec4ba302689392f3a49
+      internalID: -2136630718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4660401c0e4dd749859dc13da920f26
+      internalID: -1836421723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6b60681c47fd54ba06e86d8d55373c
+      internalID: -717897139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_171
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489e7ef435f01145a4293e6eed2cb2f
+      internalID: -1423294587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e733973d5cfc67a45a5475b9218f9d17
+      internalID: -1863628824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_173
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d96b8717b64beb49bc666aaea6d58a7
+      internalID: 1878151662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_174
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a32c58815922645b78081e99f926d4
+      internalID: 1761575127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a604b0dc33dcab4dbec693f161ab28b
+      internalID: -408462085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243213936f4e5f54aa88ae11ed207efe
+      internalID: -1667567680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6688b70a98b06428b62b17a4649413
+      internalID: -689017436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d8e8dfe6cddc046a9b7dd0f8d3553b
+      internalID: -1624342088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ba841e975abcd4699937a2831ed9b6
+      internalID: -394753865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ec07ff4cac2d84db04c555a3a4f7ab
+      internalID: -979689576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_181
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cd59b01de2a6240a1411f7b055a4ab
+      internalID: 246251819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_182
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea4250fadfb5244086041bbbeb82ebe
+      internalID: 1337985791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a1d755f61e47549a2d8d05f2c72520
+      internalID: -1004526976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77093d4886a81e4599b603e3fa92ce4
+      internalID: 623723464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_185
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ed509d44e12174bb701b8140156e1d
+      internalID: -64888399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_186
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a0f02ae3151ff40876b3ffc25badd3
+      internalID: -1842196094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_187
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f931717b3e28d14e8d3a7e83ed94f17
+      internalID: -96681382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f761efdd9214019449339a08943091d2
+      internalID: -741477753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_189
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af16fd1f34b730745a7c066a96753338
+      internalID: 1385683793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_190
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fff520dfa236284e84ad56999b93869
+      internalID: 1863508564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_191
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd71c2105c50c747b5ad3356e3e3f2a
+      internalID: -1043337540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1d6bf8b1760034d9c182c62703799b
+      internalID: 1824984498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d145b8c099c0a684db2a0083d46b6c04
+      internalID: -593535884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92ea0c10b04b34ca713d53d75b9ee8
+      internalID: -2055363771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51fe250eb3c4f44f9ccdfd409cf7cb6
+      internalID: 1146635489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0436472b6f4cc46883ccd9e1f2977d
+      internalID: 2121393187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_197
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e2072b63c98345a98f7f95a04e882
+      internalID: 594818647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461f1697591f74e45b5463dea099632a
+      internalID: -564245422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_199
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da47e846c203e34cb44aa7e68c58b23
+      internalID: -47866613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7b6b259690d4c449bfe851ea7e7e50
+      internalID: 1731812770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_201
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b0b80439991514bb0373a5b257d892
+      internalID: 1634783025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_202
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d9aeb327906184f94b91a3b7909065
+      internalID: -986930589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_203
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8792db3a87eb747a1ea9c1653f0c6b
+      internalID: 1850671692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_204
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48cd1bb5620ffa4aa6542e0d028a826
+      internalID: 1457032883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_205
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0effc836278f840a931962c8173c4f
+      internalID: 2132559909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_206
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d66c008bccf34a8cf6f6c2fdc8571
+      internalID: 358244046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_207
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4f1130cd287654788c2a1fcfdc6f82
+      internalID: 1533873350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee195dc99cd409439a0f3bb8c5bf36e
+      internalID: -767770124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30560de8d37b5e142b970391b1e53d07
+      internalID: 187965435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29addfffcce3e7b488c1f6939adb564e
+      internalID: -1588786681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2099e99459b46af48b17c5f2e06d1d1f
+      internalID: 397375921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_212
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6df45257803be5439679c6850e57c11
+      internalID: -1395813916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857f6ea4faf734c4d97cb0b10487ab98
+      internalID: 1009371966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_214
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1a97b929507d3448fa47ee336472d2
+      internalID: -1507254464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_215
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6357b39c24527846ad9893aa33fb682
+      internalID: -1572775938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_216
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e47a28382df924f99377db19bcd439
+      internalID: 438327513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_217
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267ef6b58654fff48a77449e7712b88c
+      internalID: -1869840467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_218
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc78455ec8c76e499afc1ecca9dc7d4
+      internalID: 886374381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_219
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc4219256a607942984b77fef9c77d7
+      internalID: 1481700155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_220
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52803fd2891a3f84a93b2be2ec5a32e2
+      internalID: -822640387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_221
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66db1493c96cf7349a061fd54d23d36e
+      internalID: -873870573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_222
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78fc887f541a5947b3e103236c8f244
+      internalID: -19914132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_223
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1af5774ed0ed494b9db4b4b004a0179
+      internalID: -522177273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdea326027b6b74eb3ec6425ecbb01d
+      internalID: -23479849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_225
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c9603c6a08c4145ba7c7ab78be2773
+      internalID: -1774545048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_226
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3faea555ce7e894caf66b5c95b14499
+      internalID: 151388191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_227
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1868a0a2be6ba242a566c1ecea387ec
+      internalID: 2037399416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e83025588196c4408361413cd5a2408
+      internalID: 1931219917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_229
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cd7435d6d2eed4ba0d8200e39dc5e3
+      internalID: -1566439959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_230
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4113283098ed37447ad5aa8d01985def
+      internalID: -734469210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_231
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83600ba57cb97014f9d12bbfb862851c
+      internalID: 505649559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364c8401e5e76174abae5be9c4bdc67c
+      internalID: 1783861759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_233
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a534cb17a0dbf4f81f60dc4bea8a2e
+      internalID: 1212245727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_234
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd4bf9f77be6a244a468e1e8bc4172d
+      internalID: -1493098996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_235
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5206b76d746b4214db4a63fdb5dfa34f
+      internalID: 1643583724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_236
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62887b72c681d384e9e8c4f29d870608
+      internalID: -1673834515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_237
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a07e08ee5cb064f9706ad7601caf25
+      internalID: -1529417701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_238
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5876c2490029134fb62c90631f0eec2
+      internalID: -434571842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby
+        Minigame - Background Elements_239
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a758171941587fd469ef153dd03b1d65
+      internalID: -2122635755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d4f0ac9803b17734eb5af4a5182ee6cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_0: 294095190282128365
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_1: 1762815725
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_10: 521429511
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_100: 784087715
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_101: 678827626
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_102: -2432415
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_103: -1410268723
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_104: -555149715
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_105: 250209867
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_106: 876163114
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_107: -142080850
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_108: -80533734
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_109: -299349636
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_11: 2063639401
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_110: 275446881
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_111: 721837689
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_112: 1220657497
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_113: -58273559
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_114: 800659162
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_115: 1159168468
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_116: -919140448
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_117: -238336785
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_118: 813805699
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_119: 596582610
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_12: -1784663765
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_120: -1087310974
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_121: 956724291
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_122: 1202697408
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_123: -1677700960
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_124: -1874472716
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_125: -1556026298
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_126: 927056250
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_127: 1144886209
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_128: -1154988145
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_129: -2049465626
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_13: -1990106806
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_130: 1294589877
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_131: -1583284587
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_132: 1387057616
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_133: -590984445
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_134: 1191916007
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_135: 922269383
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_136: 1894010178
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_137: 1137691739
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_138: -21155466
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_139: 2001240145
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_14: 1929968703
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_140: 1362016618
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_141: -178843997
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_142: -452578898
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_143: 1559383902
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_144: -1018758106
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_145: 236292943
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_146: 2112756635
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_147: -1416745791
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_148: 361533127
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_149: 1472962609
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_15: 1828514781
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_150: -1295990297
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_151: -1197929205
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_152: -398164525
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_153: -189459347
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_154: -1189391746
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_155: -116843764
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_156: -929028054
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_157: -1675741730
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_158: -1238828925
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_159: 1714351680
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_16: -1012173636
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_160: -12476610
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_161: -1736805868
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_162: 317931438
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_163: -275310365
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_164: 1095056133
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_165: 1129552838
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_166: 756160568
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_167: 178029492
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_168: -2136630718
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_169: -1836421723
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_17: 309212497
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_170: -717897139
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_171: -1423294587
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_172: -1863628824
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_173: 1878151662
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_174: 1761575127
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_175: -408462085
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_176: -1667567680
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_177: -689017436
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_178: -1624342088
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_179: -394753865
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_18: 365261753
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_180: -979689576
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_181: 246251819
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_182: 1337985791
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_183: -1004526976
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_184: 623723464
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_185: -64888399
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_186: -1842196094
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_187: -96681382
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_188: -741477753
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_189: 1385683793
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_19: -468735146
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_190: 1863508564
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_191: -1043337540
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_192: 1824984498
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_193: -593535884
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_194: -2055363771
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_195: 1146635489
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_196: 2121393187
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_197: 594818647
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_198: -564245422
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_199: -47866613
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_2: 1842375265
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_20: -1034599882
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_200: 1731812770
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_201: 1634783025
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_202: -986930589
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_203: 1850671692
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_204: 1457032883
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_205: 2132559909
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_206: 358244046
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_207: 1533873350
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_208: -767770124
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_209: 187965435
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_21: -91992557
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_210: -1588786681
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_211: 397375921
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_212: -1395813916
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_213: 1009371966
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_214: -1507254464
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_215: -1572775938
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_216: 438327513
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_217: -1869840467
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_218: 886374381
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_219: 1481700155
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_22: 1323499296
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_220: -822640387
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_221: -873870573
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_222: -19914132
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_223: -522177273
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_224: -23479849
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_225: -1774545048
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_226: 151388191
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_227: 2037399416
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_228: 1931219917
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_229: -1566439959
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_23: 17509468
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_230: -734469210
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_231: 505649559
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_232: 1783861759
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_233: 1212245727
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_234: -1493098996
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_235: 1643583724
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_236: -1673834515
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_237: -1529417701
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_238: -434571842
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_239: -2122635755
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_24: 457280803
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_25: 1367618574
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_26: -923752046
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_27: -1224322783
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_28: -1402512695
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_29: 961878552
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_3: -1783385254
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_30: 655470261
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_31: 1168685909
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_32: 1164318373
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_33: -431965425
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_34: 1813563046
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_35: 1922712229
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_36: -1265193508
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_37: -5303276
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_38: 1942783488
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_39: -1649861310
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_4: -1326648153
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_40: -1428105846
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_41: 39135116
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_42: 1389744228
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_43: -1019447199
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_44: -124746601
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_45: 839812451
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_46: -1200396521
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_47: 74937887
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_48: -1273648823
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_49: 1077724929
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_5: -481886319
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_50: -179352857
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_51: -1747774981
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_52: -1652164881
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_53: 2009368836
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_54: 1344468803
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_55: 40946159
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_56: -1757665004
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_57: 920253305
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_58: -2031271872
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_59: 1300805539
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_6: 1948481675
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_60: 1546356
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_61: -1800556573
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_62: -759137553
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_63: 200396787
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_64: 1604408130
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_65: -338216654
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_66: -1690305212
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_67: -1690786781
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_68: -66469112
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_69: -345476971
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_7: 36548108
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_70: -1339498898
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_71: 1384796346
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_72: 1531712263
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_73: 260887104
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_74: -1265411593
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_75: -1676185403
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_76: -1632658600
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_77: -380107293
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_78: -1082223267
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_79: -489573726
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_8: 29755757
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_80: -1045442448
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_81: -915684129
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_82: 1226295037
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_83: 1671278897
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_84: 130233098
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_85: -1938398934
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_86: -10849530
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_87: -672281958
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_88: 693940270
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_89: 204978460
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_9: 1876457518
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_90: 986519268
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_91: -1010714847
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_92: -1712479581
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_93: -1556690489
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_94: -490209342
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_95: 1838202942
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_96: -1978507111
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_97: -1962187873
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_98: 1462539879
+      PC _ Computer - Five Nights at Freddy's_ Sister Location - Circus Baby Minigame - Background Elements_99: -233123678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 719610cf98891124a8eccc9a37c21dfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5725919707403470513
+    second: solcitopelado_0
+  - first:
+      213: 4882225690299631628
+    second: solcitopelado_1
+  - first:
+      213: 6119859984152745180
+    second: solcitopelado_2
+  - first:
+      213: -8053179762970891363
+    second: solcitopelado_3
+  - first:
+      213: 2508235750758646259
+    second: solcitopelado_4
+  - first:
+      213: -3703696666095364183
+    second: solcitopelado_5
+  - first:
+      213: 128931398768805838
+    second: solcitopelado_6
+  - first:
+      213: 5574497112454833434
+    second: solcitopelado_7
+  - first:
+      213: 2282999833472327390
+    second: solcitopelado_8
+  - first:
+      213: -3390261134660177304
+    second: solcitopelado_9
+  - first:
+      213: -4991140173899328898
+    second: solcitopelado_10
+  - first:
+      213: -3806225160736983774
+    second: solcitopelado_11
+  - first:
+      213: 2224818958940043425
+    second: solcitopelado_12
+  - first:
+      213: -3926174442807019786
+    second: solcitopelado_13
+  - first:
+      213: 2367195721648764200
+    second: solcitopelado_14
+  - first:
+      213: -43263786691962328
+    second: solcitopelado_15
+  - first:
+      213: -1675600761990310017
+    second: solcitopelado_16
+  - first:
+      213: 4690078803179264942
+    second: solcitopelado_17
+  - first:
+      213: 2732646254533658517
+    second: solcitopelado_18
+  - first:
+      213: -2801212137872685089
+    second: solcitopelado_19
+  - first:
+      213: -2249772739398174035
+    second: solcitopelado_20
+  - first:
+      213: -1078339750782108940
+    second: solcitopelado_21
+  - first:
+      213: -4373372284727794241
+    second: solcitopelado_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: solcitopelado_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6413cf2ad867f40800000000000000
+      internalID: 5725919707403470513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 65
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08889fe56621c340800000000000000
+      internalID: 4882225690299631628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 197
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd45d8e2b3c1ee450800000000000000
+      internalID: 6119859984152745180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 210
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b61c35cab5d3090800000000000000
+      internalID: -8053179762970891363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 188
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f187e8402b0fc220800000000000000
+      internalID: 2508235750758646259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 70
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a756955183d99cc0800000000000000
+      internalID: -3703696666095364183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 233
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec742009c6e0ac100800000000000000
+      internalID: 128931398768805838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 44
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15af4db6979c5d40800000000000000
+      internalID: 5574497112454833434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 69
+        width: 141
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eded460b048deaf10800000000000000
+      internalID: 2282999833472327390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 196
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86274ccd57f53f0d0800000000000000
+      internalID: -3390261134660177304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_10
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 217
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e729c8eb478ebbab0800000000000000
+      internalID: -4991140173899328898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 124
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2253e1fe1629d2bc0800000000000000
+      internalID: -3806225160736983774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_12
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 120
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8fc293e0520ee10800000000000000
+      internalID: 2224818958940043425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_13
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 132
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f63542652d6389c0800000000000000
+      internalID: -3926174442807019786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_14
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 19
+        width: 175
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825f2b687f7f9d020800000000000000
+      internalID: 2367195721648764200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 132
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a5692b0db466ff0800000000000000
+      internalID: -43263786691962328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 5
+        width: 200
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7791341cf11fb8e0800000000000000
+      internalID: -1675600761990310017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 58
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabd61882d1861140800000000000000
+      internalID: 4690078803179264942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_18
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 31
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597c7425a4f4ce520800000000000000
+      internalID: 2732646254533658517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 39
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7069de6681029d0800000000000000
+      internalID: -2801212137872685089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_20
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 46
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa70d20d9337c0e0800000000000000
+      internalID: -2249772739398174035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_21
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 42
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faf27fb5b7f801f0800000000000000
+      internalID: -1078339750782108940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solcitopelado_22
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 5
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5e2420419ae43c0800000000000000
+      internalID: -4373372284727794241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      solcitopelado_0: 5725919707403470513
+      solcitopelado_1: 4882225690299631628
+      solcitopelado_10: -4991140173899328898
+      solcitopelado_11: -3806225160736983774
+      solcitopelado_12: 2224818958940043425
+      solcitopelado_13: -3926174442807019786
+      solcitopelado_14: 2367195721648764200
+      solcitopelado_15: -43263786691962328
+      solcitopelado_16: -1675600761990310017
+      solcitopelado_17: 4690078803179264942
+      solcitopelado_18: 2732646254533658517
+      solcitopelado_19: -2801212137872685089
+      solcitopelado_2: 6119859984152745180
+      solcitopelado_20: -2249772739398174035
+      solcitopelado_21: -1078339750782108940
+      solcitopelado_22: -4373372284727794241
+      solcitopelado_3: -8053179762970891363
+      solcitopelado_4: 2508235750758646259
+      solcitopelado_5: -3703696666095364183
+      solcitopelado_6: 128931398768805838
+      solcitopelado_7: 5574497112454833434
+      solcitopelado_8: 2282999833472327390
+      solcitopelado_9: -3390261134660177304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
