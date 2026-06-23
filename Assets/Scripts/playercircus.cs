@@ -3,6 +3,7 @@ using UnityEngine;
 public class playercircus : MonoBehaviour
 {
 
+
     public float speed = 5f;
     private Rigidbody2D rb2D;
     private float move;
@@ -14,6 +15,17 @@ public class playercircus : MonoBehaviour
     public LayerMask groundLayer;
 
     private Animator animator;
+
+    //librerias para lanzar objetos
+    public GameObject objetoPrefab;
+    public float fuerzaLanzamiento = 8f;
+    public float fuerzaArriba = 2f;
+
+    public bool puedeLanzarCupcakes = false;
+
+    public GameObject cupcakePrefab;
+    public Transform puntoLanzamiento;
+    public float velocidadCupcake = 8f;
 
     void Start()
     {
@@ -43,6 +55,40 @@ public class playercircus : MonoBehaviour
         animator.SetFloat("VerticalVelocity", rb2D.linearVelocity.y);
 
         animator.SetBool("IsGrounded", isGrounded);
+
+        //lanzar objetos
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            LanzarCupcake();
+        }
+
+        void LanzarCupcake()
+        {
+            GameObject cupcake = Instantiate(cupcakePrefab, puntoLanzamiento.position, Quaternion.identity);
+
+            Rigidbody2D rbCupcake = cupcake.GetComponent<Rigidbody2D>();
+
+            float horizontal = Input.GetAxisRaw("Horizontal");
+            float vertical = Input.GetAxisRaw("Vertical");
+
+            Vector2 direccion;
+
+            // Si presionas arriba o abajo, lanza vertical
+            if (vertical != 0)
+            {
+                direccion = new Vector2(0, Mathf.Sign(vertical));
+            }
+            else
+            {
+                // Si no presionas arriba/abajo, lanza horizontal hacia donde mira el personaje
+                float lado = Mathf.Sign(transform.localScale.x);
+                direccion = new Vector2(lado, 0);
+            }
+
+            rbCupcake.linearVelocity = direccion * velocidadCupcake;
+
+            Destroy(cupcake, 3f);
+        }
     }
 
     private void FixedUpdate()

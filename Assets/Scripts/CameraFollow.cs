@@ -1,11 +1,37 @@
 using UnityEngine;
 
-public class CamareFollow : MonoBehaviour
+public class CameraFollow : MonoBehaviour
 {
-    public Transform target;
+    public Transform player;
+    public float smoothSpeed = 5f;
 
-    public void LateUpdate()
+    private Transform targetPosition;
+
+    void Start()
     {
-        transform.position = new Vector3(target.position.x, target.position.y, transform.position.z);
+        targetPosition = player;
+    }
+
+    void LateUpdate()
+    {
+        if (targetPosition != null)
+        {
+            Vector3 newPosition = new Vector3(
+                targetPosition.position.x,
+                targetPosition.position.y,
+                transform.position.z
+            );
+
+            transform.position = Vector3.Lerp(
+                transform.position,
+                newPosition,
+                smoothSpeed * Time.deltaTime
+            );
+        }
+    }
+
+    public void ChangeCameraPosition(Transform newTarget)
+    {
+        targetPosition = newTarget;
     }
 }
