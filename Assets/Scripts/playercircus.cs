@@ -23,7 +23,11 @@ public class playercircus : MonoBehaviour
 
     public bool puedeLanzarCupcakes = false;
 
-    public GameObject cupcakePrefab;
+    public GameObject cupcakeRosadoPrefab;
+    public GameObject cupcakeVerdePrefab;
+    public GameObject cupcakeAzulPrefab;
+
+    private GameObject cupcakeActualPrefab;
     public Transform puntoLanzamiento;
     public float velocidadCupcake = 8f;
 
@@ -57,38 +61,49 @@ public class playercircus : MonoBehaviour
         animator.SetBool("IsGrounded", isGrounded);
 
         //lanzar objetos
-        if (Input.GetKeyDown(KeyCode.E))
+        if (Input.GetKeyDown(KeyCode.E) && puedeLanzarCupcakes)
         {
             LanzarCupcake();
         }
 
-        void LanzarCupcake()
-        {
-            GameObject cupcake = Instantiate(cupcakePrefab, puntoLanzamiento.position, Quaternion.identity);
+    }
 
-            Rigidbody2D rbCupcake = cupcake.GetComponent<Rigidbody2D>();
+    public void ActivarCupcakeRosado()
+    {
+        puedeLanzarCupcakes = true;
+        cupcakeActualPrefab = cupcakeRosadoPrefab;
+    }
 
-            float horizontal = Input.GetAxisRaw("Horizontal");
-            float vertical = Input.GetAxisRaw("Vertical");
+    public void ActivarCupcakeVerde()
+    {
+        puedeLanzarCupcakes = true;
+        cupcakeActualPrefab = cupcakeVerdePrefab;
+    }
 
-            Vector2 direccion;
+    public void ActivarCupcakeAzul()
+    {
+        puedeLanzarCupcakes = true;
+        cupcakeActualPrefab = cupcakeAzulPrefab;
+    }
 
-            // Si presionas arriba o abajo, lanza vertical
-            if (vertical != 0)
-            {
-                direccion = new Vector2(0, Mathf.Sign(vertical));
-            }
-            else
-            {
-                // Si no presionas arriba/abajo, lanza horizontal hacia donde mira el personaje
-                float lado = Mathf.Sign(transform.localScale.x);
-                direccion = new Vector2(lado, 0);
-            }
+    void LanzarCupcake()
+    {
+        if (cupcakeActualPrefab == null) return;
 
-            rbCupcake.linearVelocity = direccion * velocidadCupcake;
+        GameObject cupcake = Instantiate(
+            cupcakeActualPrefab,
+            puntoLanzamiento.position,
+            Quaternion.identity
+        );
 
-            Destroy(cupcake, 3f);
-        }
+        Rigidbody2D rbCupcake = cupcake.GetComponent<Rigidbody2D>();
+
+        float direccion = transform.localScale.x;
+
+        rbCupcake.gravityScale = 0;
+        rbCupcake.linearVelocity = new Vector2(direccion * velocidadCupcake, 0f);
+
+        Destroy(cupcake, 3f);
     }
 
     private void FixedUpdate()
